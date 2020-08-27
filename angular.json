@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TODOApp"
+    }
+  },
+  "defaultProject": "TODOApp",
+  "cli": {
+    "analytics": "310b1ae5-3bb4-4fa5-92b0-3c55efb40655"
+  }
 }
